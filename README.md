@@ -8,3 +8,5 @@ $ cd server && npm i && npm start
 ```
 
 [Click here to open app in localhost](http://localhost:3000)
+
+[Youtube](https://www.youtube.com/watch?v=ZwFA3YMfkoc)
